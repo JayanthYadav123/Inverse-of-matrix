@@ -37,7 +37,7 @@ print(inverse)
 ```
 
 ## OUTPUT:
-![output](/s.png)
+![output](/img.png)
 
 ## RESULT:
 Thus a program is written to find the inverse of the matrix.
